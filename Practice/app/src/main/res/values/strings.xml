@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="press">Press</string>
+    <string name="dialnumber">DialNumber</string>
+    <string name="open_web_page">Open Web Page</string>
+    <string name="toast">Toast</string>
+    <string name="show_location">Show Location</string>
+    <string name="view_intent">View Intent</string>
+    <string name="let_s_get_pro">Let\'s Get Pro</string>
+    <string name="hello_from_another_world">Hello From Another World!</string>
+</resources>

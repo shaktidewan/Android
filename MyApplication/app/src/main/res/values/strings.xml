@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="press_me">press me</string>
+    <string name="another_slide">Another SLide</string>
+</resources>

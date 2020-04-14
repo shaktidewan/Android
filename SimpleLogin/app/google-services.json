@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "380054037346",
+    "firebase_url": "https://loginwithdatabase-dc5ac.firebaseio.com",
+    "project_id": "loginwithdatabase-dc5ac",
+    "storage_bucket": "loginwithdatabase-dc5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380054037346:android:dff56462ccb80de5cec23b",
+        "android_client_info": {
+          "package_name": "com.example.simplelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380054037346-5o054332nictqsjh58tdrjnr7q9of1u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_eM6ckkoN6NgFFmGiWb3RTSnYQPMOl1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380054037346-5o054332nictqsjh58tdrjnr7q9of1u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
