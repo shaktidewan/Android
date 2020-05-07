@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block2</string>
+    <string name="textView_promt">Janawar xanuhos</string>
+    <string name="dog">kukur</string>
+    <string name="cat">Beralo</string>
+    <string name="pig">Sungur</string>
+    <string name="horse">Ghoda</string>
+    <string name="message">"Tapile rojeko "</string>
+</resources>

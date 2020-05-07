@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697119461710",
+    "firebase_url": "https://fireauth-1240a.firebaseio.com",
+    "project_id": "fireauth-1240a",
+    "storage_bucket": "fireauth-1240a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697119461710:android:6e4fd8a12d26b179c54e1f",
+        "android_client_info": {
+          "package_name": "com.example.fireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697119461710-08tkqakjupq3q5lu47cu6qr3tdj375s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC-l3UFPF13v0dkPwbq4BB0NGTa8447ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697119461710-08tkqakjupq3q5lu47cu6qr3tdj375s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
